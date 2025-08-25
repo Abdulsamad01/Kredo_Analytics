@@ -23,9 +23,9 @@ Aura is a user-friendly single-page e-commerce web application designed to deliv
 
 ## Contact
 
-- **Phone**: 6380923697
-- **Email**: auraofficial360@gmail.com
-- **WhatsApp**: 6380923697
+- **Phone**: 8688614691
+- **Email**: abdulsamad01113@gmail.com
+- **WhatsApp**: 8688614691
 
 ---
 
